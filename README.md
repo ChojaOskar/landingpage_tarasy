@@ -7,7 +7,7 @@ Statyczna strona wielostronnicowa. Bez buildu — TailwindCSS przez CDN.
 - `index.html` — strona główna
 - `uslugi.html` — szczegółowy opis usług (tarasy, drenaż, hydroizolacja, dodatkowe)
 - `realizacje.html` — case studies projektów
-- `zespol.html` — Konrad Gurga, Filip Kozikowski, Oskar Choja
+- `zespol.html` — Oskar Choja
 - `faq.html` — najczęstsze pytania
 - `kontakt.html` — formularz + dane kontaktowe
 - `assets/shared.js` — nawigacja, stopka, konfiguracja Tailwind (wspólne dla wszystkich podstron)
@@ -33,6 +33,4 @@ I otwórz `http://localhost:8000`.
 
 ## Zespół
 
-- **Konrad Gurga** — szef ekipy, koordynacja (doświadczenie budowlane)
-- **Filip Kozikowski** — prace ziemne i drenaż (doświadczenie budowlane)
 - **Oskar Choja** — hydroizolacja i wykończenia
